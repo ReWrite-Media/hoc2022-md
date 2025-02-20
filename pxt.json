@@ -88,7 +88,7 @@
         "ar/boss_cannon_sequence.md",
         "ar/boss_rotation.md",
         "ar/no_code_pre.md",
-        "ar/no_code.md"        
+        "ar/no_code.md"
     ],
     "targetVersions": {
         "target": "2.0.30",
