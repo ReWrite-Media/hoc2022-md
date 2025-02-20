@@ -48,10 +48,11 @@
         "boss_cannon_sequence.md",
         "boss_rotation.md",
         "no_code_pre.md",
-        "no_code.md"
+        "no_code.md",
+        "ar/attic_green_1.md"
     ],
     "targetVersions": {
-        "target": "1.7.6",
+        "target": "2.0.30",
         "targetId": "minecraft"
     },
     "supportedTargets": [
