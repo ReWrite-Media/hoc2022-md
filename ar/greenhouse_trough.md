@@ -6,12 +6,12 @@
 # Trough
 
 ## Step 1
-Oh no! It looks like the water isn't reaching the garden. Fill in all the holes so the water can flow correctly.
+آه لا! يبدو أن الماء لا يصل إلى الحديقة. قم بسد جميع الثقوب حتى يتمكن الماء من التدفق بشكل صحيح.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint 
-Move the cusor using the ``||hoc22.cursor move <direction>||`` block and then use ``||hoc22.place block||`` to place a block in that position. Fill in all 6 holes that are above the black concrete to continue.
+قم بتحريك المؤشر باستخدام ``||hoc22.cursor move <direction>||`` ثم استخدم ``||hoc22.place block||`` لوضع البلوك في ذلك الموضع. املأ الفتحات الستة الموجودة فوق الخرسانة السوداء 
 
 
 

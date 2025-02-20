@@ -6,12 +6,12 @@
 # Windy Bridge
 
 ## Step 1
-Use your cursor to block the wind, so you can walk across the bridge.
+استخدم المؤشر الخاص بك لحجب الرياح، حتى تتمكن من عبور الجسر.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint 
-Use the ``||hoc22.cursor move||`` blocks to position the cursor in front of the holes and then use ``||hoc22.place block||`` to fill the holes in to block the wind.
+استخدم ``||hoc22.cursor move||`` لوضع المؤشر أمام الثقوب، ثم استخدم ``||hoc22.place block||`` لملء الثقوب وحجب الرياح.
 
 
 

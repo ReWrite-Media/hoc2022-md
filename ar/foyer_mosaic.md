@@ -6,12 +6,12 @@
 # Picture Slide
 
 ## Step 1
-It seems like the picture got scrambled! Let's see if we can push the blocks around to put the picture back in order.
+يبدو أن الصورة قد أصبحت مشوشة! لنحاول تحريك الأجزاء لإعادة تنظيمها.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint 
-Use the ``||hoc22.push <color> <direction>||`` blocks to trigger the pistons in order to move the blocks in the selected direction. It takes a minimum of three moves to put the picture back in order.
+استخدم البلوك ``||hoc22.push <color> <direction>||``  لتفعيل المكابس من أجل تحريك البلوكات في الاتجاه المطلوب. يتطلب الأمر على الأقل ثلاث حركات لإعادة ترتيب الصورة بشكل صحيح.
 
 ```ghost
     hoc22.mosaicPushUp()

@@ -6,12 +6,12 @@
 # Pipes
 
 ## Step 1
-You'll need to add a specific amount of blocks to each of the hoppers. Maybe there is something in the room that can tell you how many?
+ستحتاج إلى إضافة عدد معين من البلوكات إلى كل حاوية. ربما يوجد شيء في الغرفة يمكنه مساعدتك في معرفة العدد المطلوب؟
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
-#### ~ tutorialhint 
-Count how many blocks are on the landing behind the puzzle. Use the ``||hoc.drop <number> <color>||`` block to add that many blocks to the hoppers.
+#### ~ tutorialhint  
+احسب عدد البلوكات الموجودة على المنصة خلف اللغز. استخدم ``||hoc.drop <number> <color>||``  لإضافة هذا العدد من البلوكات إلى الحاويات.
 
 
 

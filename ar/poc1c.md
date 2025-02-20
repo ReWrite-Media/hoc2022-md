@@ -6,9 +6,9 @@
 # Agent Maze
 
 ## Step 1
-Move the Agent to the GREEN block.
+قم بتحريك الروبوت إلى البلوك الأخضر.
 
-Use ``||hoc22.agent move||``
+استخدم ``||hoc22.agent move||``
 
 ```ghost
     hoc22.agentMove(FORWARD, 1)
@@ -20,5 +20,5 @@ Use ``||hoc22.agent move||``
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.68
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts
 ```

@@ -6,12 +6,12 @@
 # Laser Reveal
 
 ## Step 1
-Fill in all the holes in the floor with the cursor to open the red curtain.
+املأ جميع الثقوب في الأرضية باستخدام المؤشر لفتح الستارة الحمراء.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
-#### ~ tutorialhint 
-Fill all the holes in the floor by using the ``||hoc22.cursor move||`` block to position the cursor and ``||hoc22.place block||`` to fill in the holes.
+#### ~ tutorialhint  
+قم بملء جميع الثقوب في الأرضية باستخدام ``||hoc22.cursor move||`` لتحديد موضع المؤشر و ``||hoc22.place block||`` لملء الثقوب
 
 
 

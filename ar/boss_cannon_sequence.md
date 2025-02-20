@@ -6,12 +6,12 @@
 # Cannons
 
 ## Step 1
-Each cannon has its own beam color. Activate the cannons in the same order as the colored rings surrounding the Time Orb.
+كل مدفع يتميز بلونه الفريد من الأشعة. يجب عليك تفعيل المدافع بالترتيب الذي تظهر به الحلقات الملونة حول كرة الزمن.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint 
-Pay close attention to the colored rings around the Time Orb. Use the ``||hoc22.activate <color> cannon||`` blocks to match the order of rings around the Time Orb. Start from the outer most ring and work your way in.
+انتبه جيدا إلى الحلقات الملونة المحيطة بكرة الزمن. استخدم  ``||hoc22.activate <color> cannon||`` لمطابقة ترتيب الحلقات حول كرة الزمن. ابدأ من الحلقة الخارجية وانتقل نحو الداخل.
 
 ```ghost
     hoc22.magentaCannon()

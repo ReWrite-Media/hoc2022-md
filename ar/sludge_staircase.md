@@ -6,12 +6,12 @@
 # Staircase
 
 ## Step 1
-Use your cursor to build a staircase to access the upper level!
+استخدم المؤشر  لبناء درج للوصول إلى الطابق العلوي!
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint 
-Use the ``||hoc22.move cursor <direction>||`` and ``||hoc22.place block||`` blocks to build a staircase that you as a player can climb over. Make sure you are building at least one block at a time so you can jump over it. Try modifying the default code instead of starting from scratch.
+استخدم ``||hoc22.move cursor <direction>||`` و ``||hoc22.place block||`` لبناء درج يمكنك كلاعب أن تتسلقه. تأكد من أنك تبني على الأقل بلوك واحد في كل مرة حتى تتمكن من القفز فوقه. حاول تعديل الكود الحالي بدلا من البدء من جديد.
 
 
 

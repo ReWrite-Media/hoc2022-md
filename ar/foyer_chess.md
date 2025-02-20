@@ -6,12 +6,12 @@
 # Chess Pieces
 
 ## Step 1
-We've freed the King and Queen, but the door still isn't opening. The pieces must be in the wrong places. Move them into the correct places, so you can finally escape this place!
+لقد أطلقنا سراح الملكة والملك، لكن الباب لا يزال مغلقا. يبدو أن القطع موضوعة في أماكن غير صحيحة. حاول نقلها إلى المواقع الصحيحة، لكي تتمكن من الهروب من هذا المكان أخيرا!
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint 
-The chessboard represents a grid of dates. Search the room to figure out what dates the king and queen should be on and then use the ``||hoc22.move king <direction>||`` and ``||hoc22.move queen <direction>||`` blocks to move them into their correct positions.
+يمثل لوح الشطرنج شبكة من التواريخ. ابحث في الغرفة لتحديد التواريخ التي يجب أن يتواجد فيها الملك والملكة، ثم استخدم ``||hoc22.move king <direction>||`` و ``||hoc22.move queen <direction>||``  لتحريكهم إلى مواقعهم الصحيحة.
 
 ```ghost
     hoc22.kingMove(Custom.ArrowUpOrange, 1)

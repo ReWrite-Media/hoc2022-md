@@ -6,12 +6,12 @@
 # Lights
 
 ## Step 1
-There's seems to be a pattern with the way the lights are flashing. Move the Enderman to each spot matching the pattern the lights are making.
+يبدو أن هناك نمطا معينا في وميض الأضواء. حاول تحريك الإنديرمان إلى كل موقع حسب النمط الذي تشكله الأضواء.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
-#### ~ tutorialhint 
-Use the ``||hoc22.move enderman butler||`` blocks to move the Enderman butler to the correct lights. Pay attention to the pattern of the lights. Your code should match that pattern. 
+#### ~ tutorialhint  
+استخدم ``||hoc22.move enderman butler||``  لتحريك الخادم إنديرمان باتجاه الأضواء الصحيحة. انتبه لنمط الأضواء، يجب أن يتطابق كودك مع هذا النمط.
 
 
 

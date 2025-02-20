@@ -6,12 +6,12 @@
 # Agent Move
 
 ## Step 1
-Move the clay ball to the Gold block. Interact with the lightbulb if you need help. Try running the default code to see what happens. Then, make any changes you need to solve the puzzle. This is called debugging.
+قم بتحريك كرة الطين نحو البلوك الذهبي. تفاعل مع المصباح إذا كنت بحاجة إلى مساعدة. جرب تشغيل الكود الحالي لترى ما يحدث. بعد ذلك، قم بإجراء أي تغييرات تحتاجها لحل اللغز. يطلق على ذلك اسم تصحيح الأخطاء.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint  
-Use ``||hoc22.clay ball move <direction> by <number>||`` to move the clay ball onto the Gold block. Adjust the direction variable and how many blocks down it moves in order to reach the Gold block.
+استخدم ``||hoc22.clay ball move <direction> by <number>||`` لتحريك كرة الطين باتجاه البلوك الذهبي. قم بتعديل متغير الاتجاه وعدد البلوكات التي تتحرك بها حتى تصل إلى البلوك الذهبي.
 
 ```ghost
     hoc22.clayBallMove(FourDirectionUpDown.Up, 5)

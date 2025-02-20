@@ -6,12 +6,12 @@
 # Drawbridge
 
 ## Step 1
-The Enderman butler needs help getting across the river. Teleport the butler across the river to the Diamond block. Then move the butler to the lever and pull it down.
+يحتاج خادم إنديرمان إلى المساعدة لعبور النهر. قم بنقل الخادم عبر النهر إلى بلوك الماس. ثم حرك الخادم نحو الرافعة واسحبها للأسفل.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
-#### ~ tutorialhint 
-Teleport the Enderman butler to the Diamond block by using the ``||hoc22.teleport enderman||`` block. Then use the ``||hoc22.move enderman||`` block to position them and ``||hoc22.pull lever down||`` to flip the lever. The Enderman will automatically turn to face the lever when you use the ``||hoc22.pull lever down||`` block.
+#### ~ tutorialhint  
+قم بنقل خادم الإنديرمان إلى بلوك الماس باستخدام ``||hoc22.teleport enderman||`` ثم استخدم ``||hoc22.move enderman||`` لتحديد موقعه و ``||hoc22.pull lever down||``  لسحب الرافعة. سيتجه الإنديرمان تلقائيا نحو الرافعة عند استخدامك لبلوك ``||hoc22.pull lever down||`` .
 
 
 

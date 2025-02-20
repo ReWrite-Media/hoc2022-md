@@ -6,12 +6,12 @@
 # Attic Tutorial
 
 ## Step 1
-The Agent had just enough power to open the Green door. If you can figure out how to open the skylight, the Agent can charge up even more and open the Yellow door.
+كان الروبوت يمتلك الطاقة اللازمة لفتح الباب الأخضر فقط. إذا استطعت اكتشاف طريقة لفتح نافذة السقف، فسيتمكن من شحن طاقته بشكل أكبر وفتح الباب الأصفر.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint 
-Look above the Agent and use the ``||hoc22.cursor move||`` block to position the cursor over each trapdoor and then use ``||hoc22.open trapdoor||`` to open them. Use the colored arrows to help you choose which direction the cursor should move.
+انظر فوق الروبوت واستخدم ``||hoc22.cursor move||`` لتحديد موضع المؤشر فوق كل نافذة، ثم استخدم``||hoc22.open trapdoor||`` لفتحها، يمكنك استخدام الأسهم الملونة لتوجيهك في اختيار الاتجاه المناسب الذي يجب أن يتحرك فيه المؤشر.
 
 
 

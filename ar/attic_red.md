@@ -6,12 +6,12 @@
 # Attic Tutorial
 
 ## Step 1
-To open the Red door, both you and the Agent will have to work together. Flip the lever to bring up the iron wall, then move the Agent so it is above the Gold blocks in front of the Red door.
+لفتح الباب الأحمر، يجب أن تعمل أنت والروبوت معا. قم بتحريك الرافعة لرفع الجدار الحديدي، ثم انقل الروبوت ليكون فوق البلوك الذهبي الموجود أمام الباب الأحمر.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint 
-Flip the lever down to bring up the iron wall, then move the Agent 14 blocks forward using ``||hoc22.agent move <direction> by <number>||``
+قم بتحريك الرافعة للأسفل لرفع الجدار الحديدي، ثم قم بتحريك الروبوت 14 بمقدار 14 بلوك للأمام باستخدام   ``||hoc22.agent move <direction> by <number>||``
 
 
 

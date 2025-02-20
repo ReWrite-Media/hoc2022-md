@@ -6,12 +6,12 @@
 # Vent
 
 ## Step 1
-Move the clay ball through the vent in order to reach the next section.
+قم بتحريك كرة الطين عبر الفتحة للوصول إلى القسم التالي.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
-#### ~ tutorialhint 
-Use the ``||hoc22.clay ball move <direction> by <number>||`` block to move the clay ball through the vent.
+#### ~ tutorialhint  
+استخدم ``||hoc22.clay ball move <direction> by <number>||``  لتحريك كرة الطين عبر الفتحة.
 
 
 

@@ -6,12 +6,12 @@
 # Colored Levers
 
 ## Step 1
-All four levers must flipped in the correct order, very quickly, to open the door. Code the Speedy Knight to rapidly pull the levers for you.
+يجب قلب الأربعة رافعات بالترتيب الصحيح وبسرعة كبيرة لفتح الباب. قم ببرمجة الفارس السريع لسحب الرافعات بسرعة نيابة عنك.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
-#### ~ tutorialhint 
-Use the ``||hoc22.flip <color> lever||`` blocks to move the Speedy Knight to the selected color and flip the lever. Pay close attention to how many pieces of carpet there are. That will give you a clue on the order.
+#### ~ tutorialhint  
+استخدم ``||hoc22.flip <color> lever||`` لتحريك الفارس السريع إلى اللون المحدد وقلب الرافعة. انتبه جيدا لعدد قطع السجاد الموجودة، فذلك سيوفر لك تلميحا حول الترتيب.
 
 ```ghost
     hoc22.teleportLightBlueLever()

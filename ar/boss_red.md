@@ -6,12 +6,12 @@
 # Open Doors
 
 ## Step 1
-Each one of those colored slots is a lock for a chamber door. Fill all four slots with its matching color to open the chamber doors, so we can get inside!
+كل واحدة من تلك الفتحات الملونة هي قفل لباب غرفة. يجب ملء جميع الفتحات الأربع باللون المطابق لفتح أبواب الغرفة، حتى نتمكن من الدخول!
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint 
-Use the ``||hoc22.cursor move <direction>||`` block to move the cursor into position and then use ``||hoc22.place block||`` to fill the hole. Once all the holes are filled, the chamber doors should open.
+استخدم البلوك ``||hoc22.cursor move <direction>||`` لتحريك المؤشر إلى الموضع المطلوب، ثم استخدم ``||hoc22.place block||`` لملء الفتحة. بمجرد ملء جميع الفتحات، يجب أن تفتح أبواب الغرفة
 
 ```ghost
     hoc22.cursorMoveOrientationOneUp(1)

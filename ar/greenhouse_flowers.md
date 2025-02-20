@@ -6,12 +6,12 @@
 # Flower Planting
 
 ## Step 1
-It looks like there is some type of pattern to follow in this flower bed. Maybe the planters to the left and right are clues?
+يبدو أن هناك نمطا معينا يجب اتباعه في هذه الحديقة. ربما تكون الأحواض الموجودة على اليسار واليمين هي الأدلة؟
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint 
-Move the cursor using the ``||hoc22.cursor move <direction>||`` block and then use ``||hoc22.place <flower>||`` to place the correct flower. Fill the entire flower bed by matching the pattern on the left and right to complete the puzzle.
+قم بتحريك المؤشر باستخدام ``||hoc22.cursor move <direction>||`` ثم استخدم ``||hoc22.place <flower>||`` لتنسيق الزهرة بشكل صحيح، ثم قم بملء حوض الأزهار بالكامل من خلال مطابقة النمط الموجود على اليسار مع النمط على اليمين لإكمال اللغز.
 
 
 

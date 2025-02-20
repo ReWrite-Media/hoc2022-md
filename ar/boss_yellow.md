@@ -6,12 +6,12 @@
 # Pull the Lever
 
 ## Step 1
-There's the lever! Move the Agent to the lever and then pull it down!
+ها هي الرافعة! قم بتحريك الروبوت نحو الرافعة ثم اسحبها للأسفل!
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint 
-Use the ``||hoc22.agent move||`` block to position the Agent in front of the lever, and then use ``||hoc22.pull lever down||`` to activate it!
+استخدم الكود ``||hoc22.agent move||`` لوضع الروبوت أمام الرافعة، ثم استخدم ``||hoc22.pull lever down||`` لتفعيلها!
 
 ```ghost
     hoc22.agentMove(SixDirection.Up, 2)

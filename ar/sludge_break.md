@@ -6,12 +6,12 @@
 # Block Breaker
 
 ## Step 1
-Use the cursor to break the blocks in front of the door to escape.
+استخدم المؤشر لكسر البلوكات الموجودة أمام الباب للهروب.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint 
-Use the ``||hoc22.cursor move <direction>||`` block combined with ``||hoc22.break block||`` to break through enough blocks. You don't have to break all of them, just enough to get to the door.
+استخدم ``||hoc22.cursor move <direction>||`` مع ``||hoc22.break block||``  لتكسير عدد كاف من البلوكات. ليس من الضروري تكسير جميع البلوكات، يكفي أن تكسر الكمية التي تسمح لك بالوصول إلى الباب.
 
 
 

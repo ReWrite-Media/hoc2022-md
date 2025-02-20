@@ -6,12 +6,12 @@
 # Feed the House
 
 ## Step 1
-The house is hungry! And what better to feed it than apples, salmon, and mushroom stew! See if you could figure out how many of each item the house requires. 
+المنزل جائع! وما أفضل من التفاح، والسلمون، ومرق الفطر لإطعامه! حاول أن تعرف الكمية التي يحتاجها المنزل من كل مكون.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
-#### ~ tutorialhint 
-Pay attention to how many Zombie Chefs go by with each ingredient. Use the ``||hoc22.feed house <ingredient>||`` blocks to feed the house the required amount.
+#### ~ tutorialhint  
+انتبه لعدد الطهاة الزومبي الذين يمرون مع كل مكون. استخدم ``||hoc22.feed house <ingredient>||`` لتزويد المنزل بالكمية المطلوبة.
 
 ```ghost
     hoc22.feedHouseApple(1)

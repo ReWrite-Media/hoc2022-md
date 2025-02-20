@@ -6,7 +6,7 @@
 # No Coding Needed
 
 ## Step 1
-There aren't any coding activities available yet. Complete the tutorial and enter the house!
+لا توجد أنشطة برمجية نشطة حتى الآن. أكمل الدرس وادخل إلى المنزل!
 
 
 ```ghost

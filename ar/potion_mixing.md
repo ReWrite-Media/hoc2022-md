@@ -6,12 +6,12 @@
 # Potion Mixing
 
 ## Step 1
-This looks like I can make something! Maybe there is an item list somewhere in this room that can help me?
+يبدو أنني أستطيع صنع شيء ما! ربما يوجد في هذه الغرفة قائمة بالعناصر التي يمكن أن تساعدني؟
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
-#### ~ tutorialhint 
-You'll need one ``||hoc22.Nether Wart||``, ``||hoc22.Phantom Membrane||``, and ``||hoc22.Fermented Spider Eye||``. Locate the order that the ingredients need to be added and code them to be dropped in that order.
+#### ~ tutorialhint  
+ستحتاج إلى ``||hoc22.Nether Wart||``, ``||hoc22.Phantom Membrane||``و ``||hoc22.Fermented Spider Eye||``.حدد الترتيب الذي يجب إضافة المكونات به وقم ببرمجتها لتُضاف بهذا الترتيب
 
 
 

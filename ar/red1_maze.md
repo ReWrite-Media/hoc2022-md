@@ -6,12 +6,12 @@
 # Maze
 
 ## Step 1
-The Enderman butler needs your help getting through the maze to the Emerald blocks on the other side. The levers on the wall seem to match the doors colors. When flipping the lever, one door opens and another closes. 
+يحتاج خادم الإنديرمان مساعدتك للعبور عبر المتاهة للوصول إلى بلوك الزمرد في الجهة الأخرى. تبدو الأذرع الموجودة على الجدار متطابقة مع ألوان الأبواب. عند تحريك الذراع، يفتح باب ويغلق آخر.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
-#### ~ tutorialhint 
-Create a path to the Emerald blocks by using the levers. Be careful! Opening one door will close the other. Then, use the ``||hoc22.move enderman||`` blocks to get them through the maze to the emerald blocks.
+#### ~ tutorialhint  
+قم بإنشاء مسار إلى بلوكات الزمرد باستخدام الروافع. كن حذرا! فتح باب واحد سيؤدي إلى إغلاق الباب الآخر. بعد ذلك، استخدم  ``||hoc22.move enderman||`` لإيصالهم عبر المتاهة إلى البلوكات الزمردية.
 
 
 

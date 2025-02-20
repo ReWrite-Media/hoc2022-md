@@ -6,12 +6,12 @@
 # Minecart Redirection
 
 ## Step 1
-Deliver each mob to their correct place. Look at the mobs lined up and change the code to make sure they arrive in the order they are waiting.
+قم بتوجيه كل مجموعة إلى الموقع المناسب لها. راقب المجموعات المرتبة وقم بتعديل الكود لضمان وصولها بالترتيب المطلوب.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
-#### ~ tutorialhint 
-Use the ``||hoc22.sort||`` blocks to send the mobs to the correct passageways. They will be released from right to left, so make sure you order them correctly in your code.
+#### ~ tutorialhint  
+استخدم ``||hoc22.sort||``  لإرسال الكائنات إلى الممرات الصحيحة. سيتم إطلاقها من اليمين إلى اليسار، لذا تأكد من ترتيبها بشكل صحيح في الشيفرة الخاصة بك.
 
 
 

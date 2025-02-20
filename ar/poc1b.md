@@ -6,9 +6,9 @@
 # Mob Weight
 
 ## Step 1
-Make the scale add up to 10 lbs
+اجعل الوزن الإجمالي يصل إلى 10 أرطال.
 
-Use ``||hoc22.summonWeight <mob>||``
+استخدم ``||hoc22.summonWeight <mob>||``
 
 ```ghost
     hoc22.summonWeightChicken(1)
@@ -20,5 +20,5 @@ Use ``||hoc22.summonWeight <mob>||``
     hoc22.summonWeightSheep(1)
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.68
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts
 ```

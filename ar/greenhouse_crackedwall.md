@@ -6,12 +6,12 @@
 # Cracked Wall
 
 ## Step 1
-The garden needs more water! Use the cursor to break some of these damaged bricks to get more water flowing.
+الحديقة بحاجة إلى مزيد من الماء! استخدم المؤشر لكسر بعض هذا الطوب التالف لزيادة تدفق الماء.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint 
-Move the cursor using the ``||hoc22.cursor move <direction>||`` block and then use ``||hoc22.break block||`` to break a block in that position. Break all 4 blocks to get enough water to get to the next puzzle. 
+قم بتحريك المؤشر باستخدام البلوكات  ``||hoc22.cursor move <direction>||`` ثم استخدم ``||hoc22.break block||`` لكسر البلوك في ذلك الموضع. قم بكسر البلوكات الأربعة للحصول على كمية كافية من الماء للانتقال إلى اللغز التالي.
 
 
 

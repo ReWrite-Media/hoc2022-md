@@ -6,12 +6,12 @@
 # Laser Puzzle
 
 ## Step 1
-Solid blocks stop the laser! Shift the row of green blocks to make the laser pass-through the glass blocks and turn on the light at the other side. 
+تعيق البلوكات الصلبة أشعة الليزر! قم بتحريك الصفوف الخضراء والصفراء على الأرض لتمر أشعة الليزر عبر البلوكات الزجاجية وتشغل الضوء في الجهة الأخرى.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
-#### ~ tutorialhint 
-Use the ``||hoc22.shift||`` blocks to select which row you want to move, and the direction it should move in. The block at the end of the row you are shifting will get bumped to the other side.
+#### ~ tutorialhint  
+استخدم ``||hoc22.shift||`` لتختر الصف الذي ترغب في نقله والاتجاه الذي يجب أن يتحرك فيه باستخدام البلوكات. سيتم دفع البلوك الموجود في نهاية الصف الذي تقوم بتحريكه إلى الجهة الأخرى.
 
 
 

@@ -6,12 +6,12 @@
 # Unlock the Trap
 
 ## Step 1
-Now we have the chance to capture the Time Agents! We need to align all 3 colored discs to trap the Time Agents.
+الآن لدينا الفرصة للقبض على روبوتات الزمن! يجب محاذاة الأقراص الثلاثة الملونة لاحتجازهم.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint 
-Rotate each section using the ``||hoc22.rotate <section> <direction> by <number>||`` blocks. Line up the colored paths between both sections. Once that's done, we should be able to finally put a stop to those Time Agents!
+قم بتدوير كل جزء باستخدام ``||hoc22.rotate <section> <direction> by <number>||`` تأكد من محاذاة المسارات الملونة بين الجزئين. عند الانتهاء من ذلك، يجب أن نتمكن أخيرا من إيقاف هذه الروبوتات الزمنية!
 
 ```ghost
     hoc22.outerRingClockwise(1)

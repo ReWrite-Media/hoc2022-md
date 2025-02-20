@@ -6,12 +6,12 @@
 # Pitfall
 
 ## Step 1
-Move the clay golem forward 6 blocks. When the golem steps on a pressure plate, it will open a pit for 1 second. Make it wait for the block to come back before moving forward.
+قم بتحريك وحش الطين للأمام بمقدار 6 بلوكات. عند مروره على لوحة الضغط، ستفتح حفرة لمدة ثانية واحدة. تأكد من أنه ينتظر عودة البلوك قبل أن يتحرك للأمام مرة أخرى.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
-#### ~ tutorialhint 
-Move the golem forward by using the ``||hoc22.move golem forward by <number>||`` block. Move the golem forward 2 blocks and then use ``||hoc22.wait for block||`` to have the golem wait 1 second before moving forward two more.
+#### ~ tutorialhint  
+قم بتحريك وحش الطين للأمام باستخدام ``||hoc22.move golem forward by <number>||`` حرك الوحش للأمام بمقدار بلوكين، ثم استخدم ``||hoc22.wait for block||`` لجعله ينتظر لمدة ثانية واحدة قبل أن يتحرك للأمام بمقدار بلوكين إضافيتين.
 
 
 

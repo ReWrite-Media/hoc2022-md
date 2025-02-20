@@ -6,12 +6,12 @@
 # Bookcase Staircase
 
 ## Step 1
-There seems to be something at the top of the bookcase. See if you can create a way to get up there.
+يبدو أن هناك شيئا في أعلى خزانة الكتب. حاول أن تجد وسيلة للوصول إلى هناك.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
 #### ~ tutorialhint 
-Move the cursor along the bookcase to select a position using the ``||hoc22.cursor move <direction>||`` block and then use ``||hoc22.place block||`` to place a block in that position. Create a staircase to get to the top.
+قم بتحريك المؤشر على طول المكتبة لاختيار موقع باستخدام ``||hoc22.cursor move <direction>||`` ثم باستخدام ``||hoc22.place block||`` لوضع البلوك في ذلك الموقع، ثم اصنع درجا للوصول إلى القمة.
 
 ```ghost
     hoc22.cursorMoveOrientationOneUp(1)

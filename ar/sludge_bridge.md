@@ -6,12 +6,12 @@
 # Bridge Builder
 
 ## Step 1
-Use your cursor to build a bridge that can help the Crate Minion reach the button! A staircase up will appear once the Crate Minion has pressed the button.
+استخدم المؤشر الخاص بك لبناء جسر يساعد حامل الصندوق في الوصول إلى الزر! سيظهر درج للصعود بمجرد أن يقوم حامل الصندوق بالضغط على الزر.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
-#### ~ tutorialhint 
-Use the ``||hoc22.cursor move <direction>||`` block combined with ``||hoc22.place block||`` blocks to create a bridge to the button. The crate minion will walk to the button and press it once a bridge has been built for them.
+#### ~ tutorialhint  
+استخدم ``||hoc22.cursor move <direction>||`` مع ``||hoc22.place block||`` لإنشاء جسر يصل إلى الزر. سيقوم مونين بالسير نحو الزر والضغط عليه بمجرد بناء الجسر له.
 
 
 

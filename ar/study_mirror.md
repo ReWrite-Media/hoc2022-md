@@ -6,12 +6,12 @@
 # Wrong Reflection
 
 ## Step 1
-The pumpkins above the fireplace in the mirror is somehow different than the ones in this room. Try making them match.
+القرع الموجود فوق المدفأة، في المرآة يبدو مختلفا قليلا عن القرع الموجود في هذه الغرفة. حاول جعلها تتطابق.
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+الكود يحتوي على أخطاء، هل يمكنك إصلاحه؟ قم بتصحيح الكود عن طريق تشغيله لمعرفة كيف يعمل، ثم عدل عليه ليصبح الحل صحيحا.
 
-#### ~ tutorialhint 
-Move the cursor above the fireplace using ``||hoc22.cursor move <direction>||`` to select a position and ``||hoc22.place pumpkin||`` to place a pumpkin in that position.
+#### ~ tutorialhint  
+قم بتحريك المؤشر فوق المدفأة باستخدام  ``||hoc22.cursor move <direction>||`` لتحدد الموقع، ثم استخدم ``||hoc22.place pumpkin||`` لوضع القرع في ذلك الموقع
 
 ```ghost
     hoc22.cursorMoveOrientationOneUp(1)

@@ -6,9 +6,9 @@
 # Color Dropper
 
 ## Step 1
-Drop the right amount of colored blocks
+ضع الكمية المناسبة من البلوكات الملونة.
 
-Use ``||hoc22.summonColoredBlock <color>||``
+استخدم ``||hoc22.summonColoredBlock <color>||``
 
 ```ghost
     hoc22.summonColoredBlockMagenta(1)
@@ -23,5 +23,5 @@ Use ``||hoc22.summonColoredBlock <color>||``
     hoc22.summonColoredBlockLime(1)          
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.68
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts
 ```
