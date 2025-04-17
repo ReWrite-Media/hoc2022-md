@@ -25,5 +25,5 @@
       
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts
+minecraft-hoc22-ts-ar=github:ReWrite-Media/hoc22-ts-ar
 ```
