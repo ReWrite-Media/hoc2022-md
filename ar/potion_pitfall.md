@@ -24,5 +24,5 @@
     hoc22.clayGolemMoveForward(2)    
 ```
 ```package
-minecraft-hoc22-ts-ar=github:ReWrite-Media/hoc22-ts-ar
+hoc22-ts-ar=github:ReWrite-Media/hoc22-ts-ar
 ```

@@ -23,5 +23,5 @@
     hoc22.agentMove(SixDirection.Forward, 10)     
 ```
 ```package
-minecraft-hoc22-ts-ar=github:ReWrite-Media/hoc22-ts-ar
+hoc22-ts-ar=github:ReWrite-Media/hoc22-ts-ar
 ```

@@ -23,5 +23,5 @@
     hoc22.summonColoredBlockLime(1)          
 ```
 ```package
-minecraft-hoc22-ts-ar=github:ReWrite-Media/hoc22-ts-ar
+hoc22-ts-ar=github:ReWrite-Media/hoc22-ts-ar
 ```
